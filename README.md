@@ -32,7 +32,7 @@ NOTE: Make sure to install packages as root, with `sudo`.
    Clone project's repo with `git`:
    ```bash
    git clone https://github.com/Micha1207/MSD.git
-   cd MSH
+   cd MSD
    ```
 
    Or download ZIP file directly from [project's GitHub page](https://github.com/Micha1207/MSD) and extract it.
