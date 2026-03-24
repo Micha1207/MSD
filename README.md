@@ -33,11 +33,11 @@ NOTE: Make sure to install packages as root, with `sudo`.
 1. **Download sources**
    Clone project's repo with `git`:
    ```bash
-   git clone https://github.com/Micha1207/MSH.git
+   git clone https://github.com/Micha1207/MSD.git
    cd MSH
    ```
 
-   Or download ZIP file directly from [project's GitHub page](https://github.com/Micha1207/MSH) and extract it.
+   Or download ZIP file directly from [project's GitHub page](https://github.com/Micha1207/MSD) and extract it.
 
 2. **Compilation**:
    To compile this project, run `make` in project directory.
