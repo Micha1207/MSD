@@ -16,12 +16,10 @@ This project is written in **C with GNU extensions**.
 
 ### Requirements
 Make sure to have `gcc`, `make` and `git` programs and Ncurses development library installed on your system:
-Debian/Ubuntu/Mint:
 
-`apt install gcc make git ncurses-dev`
+Debian/Ubuntu/Mint: `apt install gcc make git ncurses-dev`
 
-Fedora:
-`dnf install gcc make git ncurses-devel`
+Fedora: `dnf install gcc make git ncurses-devel`
 
 NOTE: Make sure to install packages as root, with `sudo`.
 
